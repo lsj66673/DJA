@@ -1,0 +1,19 @@
+{
+  "total_questions": 54,
+  "completed": 45,
+  "failed": 0,
+  "partial": 9,
+  "skipped": 0,
+  "success_rate": "83.33%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "/root/JBBsubquestions54_fixed.csv",
+    "offset": 53,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "79dae5cc",
+    "config_signature": "08e15d3a8ecb4c9c"
+  }
+}

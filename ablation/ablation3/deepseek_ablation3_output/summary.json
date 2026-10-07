@@ -1,0 +1,19 @@
+{
+  "total_questions": 120,
+  "completed": 107,
+  "failed": 0,
+  "partial": 13,
+  "skipped": 0,
+  "success_rate": "89.17%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "/root/ablation3_data_fixed.csv",
+    "offset": 119,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "079508d3",
+    "config_signature": "ed11f84556b281aa"
+  }
+}

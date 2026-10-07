@@ -1,0 +1,21 @@
+{
+  "total_questions": 120,
+  "completed": 58,
+  "failed": 0,
+  "partial": 62,
+  "skipped": 0,
+  "success_rate": "48.33%",
+  "max_attempts": 10,
+  "interaction_mode": "sequential",
+  "run_config": {
+    "subquestion_file": "/root/gemini_run2/120questions_fixed.csv",
+    "offset": 119,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "58519093",
+    "interaction_mode": "sequential",
+    "config_signature": "1631acca6bcdb47d|mode=sequential"
+  }
+}

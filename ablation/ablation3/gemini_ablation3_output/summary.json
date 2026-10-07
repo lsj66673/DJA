@@ -1,0 +1,19 @@
+{
+  "total_questions": 120,
+  "completed": 111,
+  "failed": 0,
+  "partial": 9,
+  "skipped": 0,
+  "success_rate": "92.50%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "/root/gemini_ablation3/120questions_fixed.csv",
+    "offset": 119,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "079508d3",
+    "config_signature": "1631acca6bcdb47d"
+  }
+}

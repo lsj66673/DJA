@@ -1,0 +1,19 @@
+{
+  "total_questions": 120,
+  "completed": 1,
+  "failed": 39,
+  "partial": 80,
+  "skipped": 0,
+  "success_rate": "0.83%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "C:\\Users\\HP\\Desktop\\xiaorong1\\Deepseek\\120questions.csv",
+    "offset": 119,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "ae3b978a",
+    "config_signature": "ed11f84556b281aa"
+  }
+}

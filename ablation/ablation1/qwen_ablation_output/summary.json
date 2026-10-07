@@ -1,0 +1,19 @@
+{
+  "total_questions": 116,
+  "completed": 0,
+  "failed": 6,
+  "partial": 110,
+  "skipped": 0,
+  "success_rate": "0.00%",
+  "max_attempts": 10,
+  "run_config": {
+    "subquestion_file": "C:\\Users\\HP\\Desktop\\xiaorong1\\qwen\\120questions.csv",
+    "offset": 115,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "ae3b978a",
+    "config_signature": "b04c5a3d6d1119b8"
+  }
+}

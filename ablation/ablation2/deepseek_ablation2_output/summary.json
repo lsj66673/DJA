@@ -1,0 +1,21 @@
+{
+  "total_questions": 120,
+  "completed": 109,
+  "failed": 0,
+  "partial": 11,
+  "skipped": 0,
+  "success_rate": "90.83%",
+  "max_attempts": 10,
+  "interaction_mode": "sequential",
+  "run_config": {
+    "subquestion_file": "/root/deepseek_ablation2/120questions_fixed.csv",
+    "offset": 119,
+    "limit": 1,
+    "max_attempts": 10,
+    "run_jailbreak": true,
+    "batch_size": 10,
+    "data_hash": "58519093",
+    "interaction_mode": "sequential",
+    "config_signature": "ed11f84556b281aa|mode=sequential"
+  }
+}
